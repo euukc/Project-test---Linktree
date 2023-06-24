@@ -9,8 +9,7 @@
     }
     body {
         background: url(images/bg-dkt.jpg) no-repeat top center/cover;
-        height: 100vh
-    }
+           }
 
     .light{
         --text-color: white;

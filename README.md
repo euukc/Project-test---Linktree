@@ -1,5 +1,4 @@
 # Project test - Linktree
- Project test
+ 
+Aprendendo a utilizar o Github e hospedando o primeiro projeto. Você pode visualizar o projeto, <a href= "https://euukc.github.io/Project-test---Linktree/">clicando aqui</a>  
 
-
-<a href= "https://euukc.github.io/Project-test---Linktree/"> Visualizar o meu projeto inicial </a> 

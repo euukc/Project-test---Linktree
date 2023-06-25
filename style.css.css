@@ -8,7 +8,8 @@
         --bg-url: url(images/bg-dkt.jpg)
     }
     body {
-        background: url(images/bg-dkt.jpg) no-repeat top center/cover;
+        background-image: url(images/bg-dkt.jpg);
+        background-position: center center;
            }
 
     .light{
